@@ -1,0 +1,55 @@
+#main{
+    border: 2px solid black;
+    width: 1000px ;
+    margin: auto;
+    padding: 2%;
+}
+#heading{
+    text-align: center;
+    display: inline;
+    margin-left: 10%;
+}
+#address{
+    text-align: center;
+    font-style: italic;
+}
+#web{
+    text-align: center;
+    font-style:initial;
+}
+#reg_no{
+    font-style: unset;
+}
+#topic{
+    text-align: center;
+}
+#photo{
+    border: 1px solid black;
+    width: 95px;
+    height: 100px;
+    display: inline-block;
+    margin-top: -3;
+    margin-left: 85%;
+    margin-right: 5%;
+
+}
+#info{
+    font-weight: lighter;
+}
+#input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 500px;
+}
+#terms{
+    margin-left: 30px;
+}
+#lastterm{
+    text-align: center;
+}
+#sign{
+    margin-left: 85%;
+}
+#tablehead{
+   margin-left: 275px;
+}
